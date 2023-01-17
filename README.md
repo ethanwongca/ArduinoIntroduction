@@ -1,5 +1,5 @@
 # Arduino Introduction Projects
-Here is some Introduction Code on Some Arduino Projects that I have done.
+Here are some introduction code on Arduino Projects that I have done.
 
 <h2> Libraries and Languages </h2>
 Arduino C++ but simplified 
