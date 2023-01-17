@@ -2,7 +2,7 @@
 Here is some Introduction Code on Some Arduino Projects that I have done.
 
 <h2> Libraries and Languages </h2>
-Arduino is a simplified C++ 
+Arduino C++ but simplified 
 
 <h2> Project Examples </h2>
 
